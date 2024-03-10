@@ -14,7 +14,16 @@
 
 
 
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/CharanArikala/CharanArikala/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+</div>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=CharanArikala&icon=2&color=3)](https://visitcount.itsvg.in)
 
