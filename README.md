@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=6CC644&center=true&vCenter=true&width=900&lines=Welcome+Buddy;Sai+Charan+Arikala+Here+!!!;I+hope+you+learned+something+new+...)](https://git.io/typing-svg)
 
+[![](https://visitcount.itsvg.in/api?id=CharanArikala&icon=2&color=3)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saicharan.arikala) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-charan-arikala-b73178219/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Sai-Charan-Arikala-2) 
@@ -14,17 +15,6 @@
 
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CharanArikala/CharanArikala/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
 ---
-[![](https://visitcount.itsvg.in/api?id=CharanArikala&icon=2&color=3)](https://visitcount.itsvg.in)
 
 Sai Charan Arikala
