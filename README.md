@@ -1,5 +1,5 @@
-### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=6CC644&center=true&vCenter=true&width=900&lines=Welcome+Buddy;Sai+Charan+Arikala+Here+!!!;I+hope+you+learned+something+new+...)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
