@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=1000&color=6CC644&center=true&vCenter=true&width=900&lines=Welcome+Buddy;Sai+Charan+Arikala+Here+!!!;I+hope+you+learned+something+new+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=900&lines=Welcome+Buddy;Sai+Charan+Arikala+Here+!!!;I+hope+you+learned+something+new+...)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=CharanArikala&icon=2&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
